@@ -12,6 +12,7 @@ You can use other keys under: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\Click
 Method: Registry
 
 Key Path:
+
 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\ClickToRun\Configuration
 
 Value Name:
